@@ -68,6 +68,8 @@ The Power BI dashboard includes:
 ## 📸 Dashboard Preview
 ![image alt](https://github.com/AbhiramGupta/Shopify_trend_analysis/blob/d056e18df5057685063682ce78eb260c09a0afb8/Dashboad%201.png)Dashboard 1
 
+![image alt](https://github.com/AbhiramGupta/Shopify_trend_analysis/blob/2a93fb410486340ec430883f1a49bc412217b4ba/Dashboad%202.png)Dashboard 2
+
 ---
 
 ## 🚀 How This Project Adds Value
