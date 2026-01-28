@@ -66,7 +66,7 @@ The Power BI dashboard includes:
 ---
 
 ## 📸 Dashboard Preview
-Screenshots of the Power BI dashboard are available in the `powerbi/dashboard_screenshots/` folder.
+![image alt](https://github.com/AbhiramGupta/Shopify_trend_analysis/blob/d056e18df5057685063682ce78eb260c09a0afb8/Dashboad%201.png)Dashboard 1
 
 ---
 
