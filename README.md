@@ -8,17 +8,6 @@ The goal is to demonstrate an **end-to-end data analytics workflow** — from da
 
 ---
 
-## ❓ Business Problem
-What factors influence a product’s **trend score** on Shopify?
-
-Specifically:
-- Does higher price lead to higher trend scores?
-- Which categories and subcategories trend the most?
-- Are there high-trend products at lower price points?
-- Which products consistently outperform others within their category?
-
----
-
 ## 🧠 Tools & Technologies
 - **Python** (Pandas, NumPy) – data cleaning & preprocessing  
 - **PostgreSQL** – structured data storage  
