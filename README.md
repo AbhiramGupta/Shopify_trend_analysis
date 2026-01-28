@@ -28,8 +28,8 @@ The goal is to demonstrate an **end-to-end data analytics workflow** — from da
 ## 🗃️ Dataset
 - Public Shopify trending products dataset (2025)
 - Includes product price, category, subcategory, units sold, revenue, and trend score
+- <a href = "https://github.com/AbhiramGupta/Shopify_trend_analysis/blob/main/shopify_trending_products_2025.csv">Data Set
 
-> **Note:** Trend score represents product momentum or popularity and is treated as a composite engagement metric, not a customer rating.
 
 ---
 
@@ -54,11 +54,7 @@ The Power BI dashboard includes:
 - Average trend score by category  
 - Subcategory-level performance breakdown  
 - Drill-down analysis using slicers  
-
-### 🔹 Product-Level Insights
-- Top trending products overall  
-- Top 3 products per category using ranking logic  
-
+ 
 ---
 
 ## 🔍 Key Insights
@@ -83,5 +79,3 @@ This project demonstrates:
 
 ---
 
-## 📬 Contact
-If you’d like to discuss this project or provide feedback, feel free to connect with me on LinkedIn.
